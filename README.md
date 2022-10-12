@@ -4,8 +4,6 @@ Can be use to extract the news and get full information about-
 1. Heading.
 2. Author.
 3. Time of Published.
-4. Images.
-5. Content.
 
 # Run-
 1. Install Beautiful Soup
